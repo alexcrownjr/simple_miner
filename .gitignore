@@ -1,4 +1,9 @@
 # Binaries for programs and plugins
+client
+server
+miner
+
+
 *.exe
 *.exe~
 *.dll
