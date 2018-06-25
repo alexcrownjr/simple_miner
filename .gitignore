@@ -1,7 +1,7 @@
 # Binaries for programs and plugins
-client
-server
-miner
+client/client
+server/server
+miner/miner
 
 
 *.exe
